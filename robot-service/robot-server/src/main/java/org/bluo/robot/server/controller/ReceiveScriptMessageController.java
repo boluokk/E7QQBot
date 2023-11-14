@@ -14,6 +14,8 @@ import javax.validation.constraints.Min;
 import javax.validation.constraints.NotNull;
 
 /**
+ * 接收消息
+ *
  * @author boluo
  * @date 2023/11/12
  */

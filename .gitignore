@@ -29,3 +29,5 @@ device.json
 *.iml
 .idea
 rebel.xml
+**/target/
+dependency-reduced-pom.xml
